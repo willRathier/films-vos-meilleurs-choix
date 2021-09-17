@@ -1,5 +1,5 @@
 {
-  "name": "Vos meilleurs choix",
+  "name": "vos-meilleurs-choix",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
