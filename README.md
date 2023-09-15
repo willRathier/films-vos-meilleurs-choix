@@ -1,4 +1,4 @@
 # films-vos-meilleurs-choix
 Exercice étudiants
 
-Consignes: [smnarnold.com/exercices/films-vos-meilleurs-choix](https://smnarnold.com/exercices/films-vos-meilleurs-choix)
+Consignes: [tim-montmorency.com/timdoc/582-518MO/exercices/sass-films-vos-meilleurs-choix/](https://tim-montmorency.com/timdoc/582-518MO/exercices/sass-films-vos-meilleurs-choix/)
