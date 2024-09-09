@@ -1,10 +1,12 @@
 .top-picks {
   position: relative;
   padding: 50px;
+  background: #80baa1;
 }
 .top-picks__header {
   border-left: solid 5px #73BA9B;
   padding-left: 20px;
+  color: white;
 }
 .top-picks__title {
   margin: 0;
@@ -12,6 +14,11 @@
 }
 .top-picks__desc {
   opacity: 0.7;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 .top-picks__wrapper {
   display: flex;
@@ -21,12 +28,22 @@
 .card {
   margin: 5px;
   padding: 5px;
+  background: #73a18d;
 }
 .card .card__btn {
   width: 100%;
   padding: 5px 0;
   border: 0;
   background: #99baac;
+  color: #ba7392;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.card .card__btn:hover {
+  background: #b3bab7;
 }
 
 body {
